@@ -3,7 +3,7 @@
 ## Matrix wrapper to cache its inverse!
 ## Functions for creating and querying wrapper object
 ##
-## By: t-grab
+## by: t-grab
 
 # Constructor Function for special "matrix" that
 # can cache its inverse
